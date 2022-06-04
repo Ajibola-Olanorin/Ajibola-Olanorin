@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Available to work Full-time, part-time or as a Freelancer.
 - 🌱 &nbsp; Learning more about Full Stack Web Development, UI/UX Design and Computer Security.
-- ✍️ &nbsp; Finiding bugs in computers as hobbies/side hustles.
+- ✍️ &nbsp; Finiding bugs in computers as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
