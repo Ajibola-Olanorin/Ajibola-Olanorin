@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Available to work full-time, part-time or as a Freelancer.
-- 🌱 &nbsp; Learning more about System Administration, Web Development, Technical Suppport, and Computer Security.
+- 🌱 &nbsp; Learning more about System Administration, Web Development, Technical support, digital marketing and Computer Security.
 - ✍️ &nbsp; Technical writing.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
